@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1641856423 source:c:\users\weltinfo\desktop\ttf\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"menu.h"
+	"game.h"
+	"cpu.h"
+	"pvsc.h"
+
+1641865688 source:c:\users\weltinfo\desktop\ttf\game.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<SDL2/SDL_ttf.h>
+	"ttffonc.h"
+	"verifie.h"
+	"affichage.h"
+
+1641865715 source:c:\users\weltinfo\desktop\ttf\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+
+1639259963 c:\users\weltinfo\desktop\ttf\menu.h
+
+1639259867 c:\users\weltinfo\desktop\ttf\game.h
+
+1641850738 source:c:\users\weltinfo\desktop\ttf\ttffonc.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_ttf.h>
+
+1641766646 c:\users\weltinfo\desktop\ttf\ttffonc.h
+
+1641766725 c:\users\weltinfo\desktop\ttf\verifie.h
+
+1641766782 c:\users\weltinfo\desktop\ttf\affichage.h
+
+1641852471 source:c:\users\weltinfo\desktop\ttf\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<SDL2/SDL_ttf.h>
+	"ttffonc.h"
+	"verifie.h"
+	"affichage.h"
+
+1640614263 c:\users\weltinfo\desktop\ttf\cpu.h
+
+1641766719 source:c:\users\weltinfo\desktop\ttf\verifie.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_ttf.h>
+	<stdbool.h>
+
+1641766801 source:c:\users\weltinfo\desktop\ttf\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_ttf.h>
+
+1641866305 source:c:\users\weltinfo\desktop\ttf\pvsc.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<SDL2/SDL_ttf.h>
+	"ttffonc.h"
+	"verifie.h"
+	"affichage.h"
+
+1641849349 c:\users\weltinfo\desktop\ttf\pvsc.h
+
